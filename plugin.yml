@@ -1,0 +1,7 @@
+name: OrebPhysFix
+main: com.github.intangir.OrebPhysFix.OrebPhysFix
+version: 1.0
+load: startup
+description: Suppliments orebfuscators physics handing for extra hard mode
+author: Intangir
+
